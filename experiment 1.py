@@ -1,3 +1,19 @@
+# Experiment 1:
+AIM:
+To write and execute a python program to demonstrate various data types and operators in python
+Algorithm
+1. Start the program
+2. Declare variables using different data types such as:
+   Integer
+   Float
+   String
+   Boolean
+   List
+   Tuple
+   Dictionary
+   Set
+3. Display
+4.
 a = 10
 b = 3.5
 name = "Alice"
