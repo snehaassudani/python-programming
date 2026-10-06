@@ -30,12 +30,6 @@ elif average >= 50:
 else:
     print("Grade: F")
 
-print("\nCountdown:")
-count = 5
-
-while count > 0:
-    print(count)
-    count -= 1
 
 print("Program completed!")
 
